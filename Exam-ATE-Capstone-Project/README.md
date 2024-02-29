@@ -2,10 +2,11 @@ Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Shankhdeep Pal
 Email : shanpal@cisco.com
-Github :  https://github.com/SpinoTech/Exam-ATE-Capstone-Project.git
+Github :  [https://github.com/SpinoTech/Exam-ATE-Capstone-Project.git](https://github.com/Shankhdeep/Exam_ATE_capstone_project.git)
 
 Problem Statement and Motivation Real-Time Scenario:
- Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
+ Sporty ![image](https://github.com/Shankhdeep/Exam_ATE_capstone_project/assets/97821571/7f0357ec-d796-4a94-8f49-91526cfb1c8f)
+Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
 • Users can view products  , I wrote some functionality for that also .
 • If users want to purchase something, they can first sign up and then log in
 • Users can add multiple items to their cart and do a checkout. 
