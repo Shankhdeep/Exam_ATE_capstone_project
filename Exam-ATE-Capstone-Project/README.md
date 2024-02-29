@@ -1,7 +1,7 @@
 Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
-Name : Parichay Haldar
-Email : phaldar@cisco.com
+Name : Shankhdeep Pal
+Email : shanpal@cisco.com
 Github :  https://github.com/SpinoTech/Exam-ATE-Capstone-Project.git
 
 Problem Statement and Motivation Real-Time Scenario:
